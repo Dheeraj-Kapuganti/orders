@@ -1,0 +1,11 @@
+OrderID: 101 | Item: Laptop | Qty: 1 | Price: 55000
+OrderID: 102 | Item: Mouse | Qty: 2 | Price: 800
+OrderID: 103 | Item: Keyboard | Qty: 1 | Price: 1200
+OrderID: 104 | Item: Monitor | Qty: 1 | Price: 9000
+OrderID: 105 | Item: Headphones | Qty: 1 | Price: 1500
+OrderID: 106 | Item: SSD 512GB | Qty: 1 | Price: 4500
+OrderID: 107 | Item: USB Cable | Qty: 3 | Price: 300
+OrderID: 108 | Item: Power Bank | Qty: 1 | Price: 1800
+OrderID: 109 | Item: Webcam | Qty: 1 | Price: 2000
+OrderID: 110 | Item: Speaker | Qty: 1 | Price: 2500
+

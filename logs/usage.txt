@@ -1,0 +1,4 @@
+4.0K	/home/dheeraj/orders/pending
+8.0K	/home/dheeraj/orders/completed
+12K	/home/dheeraj/orders/logs
+32K	/home/dheeraj/orders
